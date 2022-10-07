@@ -1,4 +1,21 @@
-## Ola, eu sou Phillipe Pacheco, desenvolvedor Back-and jr!
+## Ola, eu sou Phillipe Pacheco!
+
+  - Atualmente sou estudante de desenvolvimento web na Trybe
+  
+  - Estou aprendendo Python e tenho experiência com:
+  
+      - JavaScript | TypeScript |  CSS | HTML
+      - Node.js | Jest | RTL | React JS | Context API | Redux 
+      - Scrum | Kanban
+      - TDD | Code Review | Clean Code | Conventional Commits
+      - Fetch API | Git | VSCode | Slack | Trello | Cypress
+      - Unit Tests;
+      - Docker;
+      - SQL | MySQL Worbench | MongoDB
+      - Express (HTTP com Node.js) | Middlewares
+      - Arquitetura de Software | Sequelize
+      - API REST | POO
+
 <div align="center">
   <a href="https://github.com/phillipe153">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=phillipe153&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
