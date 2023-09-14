@@ -1,10 +1,11 @@
 ## Ola, eu sou Phillipe Pacheco!
 
-  - Atualmente sou estudante de desenvolvimento web na Trybe
+  - Sou Desenvolvedor web Fullstack formado pela Trybe em janeiro de 2023.
+    Estou em busca de um vaga condizente com os conhecimentos adquiridos durante o curso
   
-  - Estou aprendendo Python e tenho experiência com:
+  - Atualmente estou aprendendo Java e tenho experiência com:
   
-      - JavaScript | TypeScript |  CSS | HTML
+      - JavaScript | TypeScript | Python | CSS | HTML
       - Node.js | Jest | RTL | React JS | Context API | Redux 
       - Scrum | Kanban
       - TDD | Code Review | Clean Code | Conventional Commits
