@@ -5,7 +5,7 @@
   
   - Atualmente estou aprendendo Java e tenho experiência com:
   
-      - JavaScript | TypeScript | Python | CSS | HTML
+      - Java | JavaScript | TypeScript | Python | CSS | HTML
       - Node.js | Jest | RTL | React JS | Context API | Redux 
       - Scrum | Kanban
       - TDD | Code Review | Clean Code | Conventional Commits
